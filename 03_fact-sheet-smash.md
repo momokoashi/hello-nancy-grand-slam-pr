@@ -1,5 +1,5 @@
 # FACT SHEET — SMASH
-### Wand Vibrator · Hello Nancy
+### Wand Vibrator · The Center Court Collection · Hello Nancy
 
 *One page. Everything a journalist needs to write about SMASH without emailing us back.*
 

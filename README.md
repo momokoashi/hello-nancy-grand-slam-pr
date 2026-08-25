@@ -1,8 +1,8 @@
-# Hello Nancy — ACE & SMASH Press Pack
+# Hello Nancy — The Center Court Collection
 
-PR materials for the Grand Slam launch (US Open fortnight, Aug–Sep 2026).
+Press pack for ACE and SMASH, launching across the US Open fortnight (Aug–Sep 2026).
 
-**Private repo.** Contains unreleased pricing, pre-launch copy and unpublished photography. Do not share outside the team.
+**Public repo.** Live page: https://momokoashi.github.io/hello-nancy-grand-slam-pr/
 
 ---
 
@@ -42,7 +42,7 @@ Full resolution, as supplied. The one-pager uses web-optimised copies of the sam
 
 ## Live version
 
-The one-pager is also published as a shareable page — ask Momo for the link.
+https://momokoashi.github.io/hello-nancy-grand-slam-pr/
 
 ## Open before this goes to press
 

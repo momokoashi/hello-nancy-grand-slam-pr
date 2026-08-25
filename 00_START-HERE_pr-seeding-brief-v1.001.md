@@ -1,9 +1,10 @@
 # PR Seeding Brief — ACE & SMASH
-### Hello Nancy · The Grand Slam Launch · US Open 2026
+### Hello Nancy · The Center Court Collection · US Open 2026
 
 **Version:** v1.001
 **Date:** 2026-08-21
 **Campaign window:** Aug 25 → Sep 12, 2026 (the full US Open fortnight)
+**Collection:** The Center Court Collection
 **Products:** ACE (air-suction massager) and SMASH (wand vibrator)
 **Brand:** Hello Nancy — hellonancy.com
 **Internal owner:** Momo

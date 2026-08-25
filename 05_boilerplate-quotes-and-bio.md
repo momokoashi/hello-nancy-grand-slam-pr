@@ -99,6 +99,7 @@ Put it in the release, in the fact sheets, and in the footer of every pitch emai
 
 ## Style notes for anyone writing on the brand's behalf
 
+- **The Center Court Collection** — the name for ACE and SMASH together. American spelling, *Center*, never *Centre*: it matches the packaging and the tournament. In running copy, "Hello Nancy's Center Court collection" (lowercase c on collection) is fine.
 - **Hello Nancy** — two words, both capitalised. Never "HelloNancy" or "hello nancy."
 - **ACE** and **SMASH** — set in caps in headlines and product names, as on the packaging. Sentence case is acceptable in running copy ("Ace", "Smash") if house style demands it.
 - The brand is British in spelling and register. *Colourway*, not colorway, in UK-facing materials.
