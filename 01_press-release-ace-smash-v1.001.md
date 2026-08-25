@@ -10,7 +10,7 @@
 
 **NEW YORK / LONDON — `[CONFIRM date]`** — Hello Nancy, the sexual wellness brand whose products are shaped like a lemon, a raspberry and an avocado, today launches its first two products that aren't food: **ACE**, an air-suction massager shaped like a tennis ball, and **SMASH**, a wand vibrator built around the hardest shot in the sport.
 
-Both go on sale `[CONFIRM date]` at hellonancy.com, priced at `[CONFIRM]`. ACE arrives in tennis-ball green and pink. SMASH arrives in green.
+Both go on sale `[CONFIRM date]` at hellonancy.com. ACE is $99 in green and $119 in pink; SMASH is $129. ACE arrives in tennis-ball green and pink. SMASH arrives in green.
 
 The launch runs across the full US Open fortnight — with no affiliation to the tournament of any kind. Hello Nancy is not a sponsor, partner or licensee of the US Open, the USTA, or any player. It has instead built a two-week campaign around the sport in public: street-level activity across New York, a creator programme, and a closing residency during finals weekend.
 
@@ -18,11 +18,11 @@ The launch runs across the full US Open fortnight — with no affiliation to the
 
 **A brand built to be left out, not hidden**
 
-Founded in April 2023, Hello Nancy has grown from nothing to over a million customers, and now sells a product roughly every 23 seconds — in a category with almost no access to paid advertising. Meta and Google largely won't take the ads. Television won't run them. The brand's growth has instead come from a design decision: products that look like objects you'd happily leave on a shelf.
+Founded in April 2023, Hello Nancy has grown from nothing to over a million customers, and now sells a product roughly every 23 seconds — in a category with almost no access to paid advertising. Its products are developed alongside a panel of eleven clinical experts, and the brand has been covered by VICE, Mashable, SheKnows, PopSugar and The Daily Beast. Meta and Google largely won't take the ads. Television won't run them. The brand's growth has instead come from a design decision: products that look like objects you'd happily leave on a shelf.
 
 "Everyone else in this category is solving for discretion — matte black, hidden, looks-like-a-lipstick," said `[CONFIRM spokesperson]`. "We solved for the opposite. A lemon on your nightstand isn't a secret. It's just a nice lemon. Nothing you'd hide in a drawer."
 
-ACE and SMASH extend that logic into sport. ACE is a tennis ball, in the hand, at the same scale — 65 mm across, 110 grams, in the felt-green of a new can of balls. On a shelf it is a tennis ball. SMASH is a wand with a ball-textured head and a flexible neck.
+ACE and SMASH extend that logic into sport. ACE is shaped like a tennis ball — 65 mm across, 110 grams, in tennis green or pink. On a shelf it reads as one. SMASH is a wand with a ball-textured head and a flexible neck.
 
 **ACE — Gentle air. Nothing else.**
 
@@ -32,7 +32,7 @@ Box copy: *Gentle waves of air with one job: getting you there, your way. Howeve
 
 **SMASH — The most powerful shot in tennis. Now in your nightstand.**
 
-SMASH pairs a deep, rumbly motor with a flexible head that keeps the power exactly where it is put. Eight modes across eight intensities, 220 mm long, 272 grams, IPX7 waterproof, USB-C rechargeable, in a textured silicone head sleeve and soft silicone neck.
+SMASH pairs a deep, rumbly motor with a flexible head that keeps the power exactly where it is put. Eight modes across five intensities, 220 mm long, 272 grams, IPX7 waterproof, USB-C rechargeable, in a textured silicone head sleeve and soft silicone neck.
 
 Box copy: *Smash doesn't do half measures. A deep, rumbly motor built for those who know exactly how much they can handle.*
 
@@ -44,13 +44,13 @@ Hello Nancy's campaign runs `[CONFIRM Aug 25 – Sep 12]`, spanning New York str
 
 **Availability**
 
-ACE and SMASH are available from `[CONFIRM date]` at hellonancy.com, shipping to `[CONFIRM markets]`. ACE `[CONFIRM price]`. SMASH `[CONFIRM price]`. `[CONFIRM bundle offer, if any]`.
+ACE and SMASH are available from `[CONFIRM date]` at hellonancy.com, shipping to `[CONFIRM markets]`. ACE: green $99 (from $199), pink $119 (from $209). SMASH: $129 (from $229). `[CONFIRM bundle offer, if any]`.
 
 ---
 
 ### About Hello Nancy
 
-Hello Nancy is a sexual wellness brand founded in April 2023 and designed in London. Its products — including the lemon-shaped Lem, the raspberry-shaped Berri and the avocado-shaped Avo — are built to look like everyday objects rather than to be hidden. The brand has served over a million customers and sells a product approximately every 23 seconds. Hello Nancy is a brand of Care & Bloom Ltd. hellonancy.com · @hellonancy_official
+Hello Nancy is a sexual wellness brand founded in April 2023 and designed in London. Its products — including the lemon-shaped Lem, the raspberry-shaped Berri and the avocado-shaped Avo — are built to look like everyday objects rather than to be hidden. The brand works with a panel of eleven clinical experts, has served over a million customers, and sells a product approximately every 23 seconds. Its products have been covered by VICE, Mashable, SheKnows, PopSugar and The Daily Beast. Hello Nancy is a brand of Care & Bloom Ltd. hellonancy.com · @hellonancy_official
 
 ### Press contact
 
@@ -72,7 +72,7 @@ Hello Nancy launches ACE and SMASH for tennis season
 The sexual wellness brand known for fruit-shaped products launches a tennis-ball air-suction massager and a wand vibrator, and runs the full US Open fortnight uninvited.
 
 **50-word brief (for newsletters and roundups):**
-Hello Nancy — the brand behind the lemon-shaped Lem — launches ACE, an air-suction massager shaped like a tennis ball, and SMASH, a wand vibrator. Both land `[CONFIRM date]` at `[CONFIRM price]`, alongside a two-week New York campaign timed to the US Open, which the brand has no affiliation with whatsoever.
+Hello Nancy — the brand behind the lemon-shaped Lem — launches ACE, an air-suction massager shaped like a tennis ball, and SMASH, a wand vibrator. Both land `[CONFIRM date]`, from $99, alongside a two-week New York campaign timed to the US Open, which the brand has no affiliation with whatsoever.
 
 **150-word brief (for shopping desks):**
-Hello Nancy has launched two tennis-themed products: ACE (`[CONFIRM price]`), an air-suction massager the exact size and colour of a tennis ball, and SMASH (`[CONFIRM price]`), a wand vibrator with a flexible, ball-textured head. ACE uses waves of air rather than contact across twelve intensities, runs over 210 minutes per charge, and is IPX7 waterproof and USB-C rechargeable — pitched squarely at first-timers. SMASH is the powerful one: a deep, rumbly motor, eight modes across eight intensities, a flexible neck that holds power where you put it, also IPX7 and USB-C. ACE comes in tennis-ball green and pink; SMASH in green. Both are medical-grade silicone. The launch anchors a two-week campaign across New York timed to the US Open — a tournament Hello Nancy has no affiliation with and, being a sexual wellness brand, could never buy its way into. Available at hellonancy.com.
+Hello Nancy has launched two tennis-themed products: ACE (from $99), an air-suction massager shaped like a tennis ball, and SMASH ($129), a wand vibrator with a flexible, ball-textured head. ACE uses waves of air rather than contact across twelve intensities, runs over 210 minutes per charge, and is IPX7 waterproof and USB-C rechargeable — pitched squarely at first-timers. SMASH is the powerful one: a deep, rumbly motor, eight modes across five intensities, a flexible neck that holds power where you put it, also IPX7 and USB-C. ACE comes in tennis-ball green and pink; SMASH in green. Both are medical-grade silicone. The launch anchors a two-week campaign across New York timed to the US Open — a tournament Hello Nancy has no affiliation with and, being a sexual wellness brand, could never buy its way into. Available at hellonancy.com.

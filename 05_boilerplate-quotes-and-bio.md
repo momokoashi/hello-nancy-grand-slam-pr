@@ -7,13 +7,13 @@
 ## Boilerplate — three lengths
 
 **25 words**
-Hello Nancy is a sexual wellness brand designed in London, making products shaped like everyday objects — a lemon, a raspberry, an avocado — rather than things to hide.
+Hello Nancy is a sexual wellness brand designed in London with a panel of eleven clinical experts, making products shaped like a lemon, a raspberry, an avocado.
 
 **50 words**
 Hello Nancy is a sexual wellness brand founded in April 2023 and designed in London. Its products are shaped like everyday objects — a lemon, a raspberry, an avocado — built to be left out rather than hidden. The brand has served over a million customers and sells a product approximately every 23 seconds.
 
 **100 words**
-Hello Nancy is a sexual wellness brand founded in April 2023 and designed in London. It was built on a single design inversion: where the category solves for discretion, Hello Nancy solves for visibility. Its products — including the lemon-shaped Lem, the raspberry-shaped Berri and the avocado-shaped Avo — are designed to sit on a nightstand in plain sight. Since launch the brand has served over a million customers and now sells a product approximately every 23 seconds, in a category with almost no access to paid advertising. Hello Nancy is a brand of Care & Bloom Ltd. hellonancy.com · @hellonancy_official
+Hello Nancy is a sexual wellness brand founded in April 2023 and designed in London. It was built on a single design inversion: where the category solves for discretion, Hello Nancy solves for visibility. Its products — including the lemon-shaped Lem, the raspberry-shaped Berri and the avocado-shaped Avo — are designed to sit on a nightstand in plain sight. Every product is developed alongside a panel of eleven clinical experts. Since launch the brand has served over a million customers and now sells a product approximately every 23 seconds, in a category with almost no access to paid advertising, and has been covered by VICE, Mashable, SheKnows, PopSugar and The Daily Beast. Hello Nancy is a brand of Care & Bloom Ltd. hellonancy.com · @hellonancy_official
 
 ---
 
