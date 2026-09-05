@@ -29,7 +29,7 @@ The beginner's one. A tennis ball, at tennis-ball scale, that works in waves of 
 | Settings | 12 intensities & patterns |
 | Waterproof | IPX7 |
 | Charge / play | ≤80 min · 210+ min |
-| Material | Medical-grade silicone + ABS |
+| Material | Body-safe silicone |
 | Price | **TBC** |
 
 ### SMASH — Wand Vibrator

@@ -21,7 +21,7 @@ ACE is an air-suction massager shaped like a tennis ball. It works with gentle w
 | **Product type** | Air suction massager (clitoral, external use) |
 | **Dimensions** | 65 × 65.5 mm |
 | **Weight** | 110 g |
-| **Material** | Medical-grade silicone and ABS |
+| **Material** | Body-safe silicone |
 | **Settings** | 12 unique intensities and patterns |
 | **Waterproof rating** | IPX7 — fully waterproof |
 | **Battery** | Li-ion, 300 mAh |
@@ -58,10 +58,10 @@ ACE is an air-suction massager shaped like a tennis ball, using gentle waves of 
 ACE is an air-suction massager shaped like a tennis ball — 65 mm, 110 g, in tennis green or pink. It uses waves of air rather than contact, runs twelve intensities, is IPX7 waterproof and USB-C rechargeable, and is built as the beginner's entry into the category.
 
 **Paragraph:**
-ACE is Hello Nancy's air-suction massager, shaped like a tennis ball so it reads as one on a shelf. It measures 65 × 65.5 mm and weighs 110 g, in tennis green or in pink. It works with gentle waves of air rather than contact, across twelve intensities and patterns, and is quiet enough that the packaging makes a point of it. It's fully waterproof to IPX7, USB-C rechargeable, made of medical-grade silicone and ABS, and runs for over 210 minutes on a charge that takes under 80. Hello Nancy positions it as the beginner's product: the one you buy first, and the one you don't have to put away.
+ACE is Hello Nancy's air-suction massager, shaped like a tennis ball so it reads as one on a shelf. It measures 65 × 65.5 mm and weighs 110 g, in tennis green or in pink. It works with gentle waves of air rather than contact, across twelve intensities and patterns, and is quiet enough that the packaging makes a point of it. It's fully waterproof to IPX7, USB-C rechargeable, made of body-safe silicone, and runs for over 210 minutes on a charge that takes under 80. Hello Nancy positions it as the beginner's product: the one you buy first, and the one you don't have to put away.
 
 **Product-page style description (for shopping desks):**
-An air-suction massager shaped like a tennis ball. Gentle waves of air, twelve intensities, whisper quiet, fully waterproof, USB-C. 65 mm, 110 g, medical-grade silicone. Green $99 (from $199), pink $119 (from $209).
+An air-suction massager shaped like a tennis ball. Gentle waves of air, twelve intensities, whisper quiet, fully waterproof, USB-C. 65 mm, 110 g, body-safe silicone. Green $99 (from $199), pink $119 (from $209).
 
 ---
 

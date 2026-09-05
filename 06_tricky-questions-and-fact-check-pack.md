@@ -81,7 +81,7 @@ Yes, currently, and we should fix it before it's asked. See §C.
 | One product sold every 23 seconds | `[CONFIRM definition + period]` | Internal — needs a written definition |
 | ACE: 65 × 65.5 mm, 110 g, IPX7, 300 mAh, ≤80 min charge, >210 min play, 12 intensities | Verified from spec card | Engineering |
 | SMASH: 220 mm, Ø55.3 mm head, 272 g, IPX7, 500 mAh, ≤90 min charge, >60 min runtime, 8 modes × 8 intensities | Verified from spec card | Engineering |
-| Both: medical-grade / body-safe silicone, USB-C | Verified from packaging | Engineering |
+| Both: body-safe silicone, USB-C | Verified from packaging | Engineering |
 | Made in China, designed in London | Verified from packaging | Internal |
 
 **Category and gap statistics.** If a journalist wants orgasm-gap or category-size data, do not improvise. Hello Nancy has a sourced data spine already built for the "2 Minutes With Lem" campaign — reuse those figures and those citations rather than generating new ones. `[Reference: playbooks/pr-brief-2-minutes-with-lem-v1.001.md]`

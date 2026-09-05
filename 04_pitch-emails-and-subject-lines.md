@@ -152,7 +152,7 @@
 >
 > **SMASH** — `[CONFIRM price]`. Full-size wand, 220 mm, 272 g. Deep rumbly motor, flexible ball-textured head, 8 modes × 8 intensities, IPX7, USB-C. Green. **Not the beginner's one.**
 >
-> Both are medical-grade silicone, both ship to `[CONFIRM markets]`, both are in stock through Q4.
+> Both are body-safe silicone, both ship to `[CONFIRM markets]`, both are in stock through Q4.
 >
 > Full specs, on-white imagery and lifestyle assets here: `[CONFIRM press kit link]`. I can have samples with you by `[CONFIRM date]` — just tell me which colourway.
 >
